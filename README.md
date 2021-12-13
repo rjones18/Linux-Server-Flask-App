@@ -3,9 +3,9 @@ In this mini project I deployed a basic python flask application on a Linux serv
 
 Link to the App: http://20.122.197.198/
 
-## Website Breakdown
+## Application Breakdown
 
-The construction of the website broken down into the parts below:
+The construction of the application broken down into the parts below:
 
 - [Python](https://www.python.org/) 
 - [Flask (Python Framework)](https://flask.palletsprojects.com/en/1.1.x/)
