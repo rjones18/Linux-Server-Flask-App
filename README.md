@@ -22,15 +22,22 @@ The construction of the application broken down into the architecture below:
 - [Flask (Python Framework)](https://flask.palletsprojects.com/en/1.1.x/)
 
 
-### DNS
+### Web Server/HTTP Server
 
-- [Azure DNS](https://azure.microsoft.com/en-us/services/dns/#overview)
-- [GoDaddy](https://www.godaddy.com/)
+- [Nginx](https://www.nginx.com/)
+- [Gunicorn](https://gunicorn.org/)
 
 
 ### Deployment Platform
 
 - Linux Server hosted in Microsoft Azure
+
+
+### DNS
+
+- [Azure DNS](https://azure.microsoft.com/en-us/services/dns/#overview)
+- [GoDaddy](https://www.godaddy.com/)
+
 
 
 ### Storage
