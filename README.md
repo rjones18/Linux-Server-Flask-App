@@ -32,6 +32,7 @@ The construction of the application broken down into the architecture below:
 
 - Linux Server hosted in Microsoft Azure
 
+
 ### Storage
 
 - [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/)
