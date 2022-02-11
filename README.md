@@ -30,7 +30,7 @@ The construction of the application broken down into the architecture below:
 
 ### Deployment Platform
 
-- Linux Server hosted in Microsoft Azure
+- Linux Server hosted VM in Microsoft Azure
 
 
 ### DNS
